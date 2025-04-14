@@ -10,7 +10,7 @@ if (temperature < 0) {
 } else {
   console.log("It's warm.");
 }
-//switch statement
+//switch statements
 switch (true) {
   case (temperature < 0):
     console.log("It's freezing!");
